@@ -10,6 +10,8 @@
   "dependencies": {
     "@hapi/boom": "7.x.x",
     "@hapi/joi": "15.x.x",
+    "@hapi/vision": "^5.5.2",
+    "ejs": "^2.6.1",
     "haute-couture": "3.x.x"
   },
   "devDependencies": {

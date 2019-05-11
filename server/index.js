@@ -2,6 +2,7 @@
 
 const Glue = require('@hapi/glue');
 const Manifest = require('./manifest');
+const Vision = require('@hapi/vision');
 
 exports.deployment = async (start) => {
 
